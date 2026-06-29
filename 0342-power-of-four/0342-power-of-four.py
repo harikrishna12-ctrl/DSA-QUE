@@ -8,7 +8,7 @@ class Solution(object):
       else:
        while(n>1 and n %4 ==0):
         n = n//4
-      if(n ==1 and s%4 ==0):
+      if(n ==1 ):
         return True
       else: 
         return False
