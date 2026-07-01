@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -44,5 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
