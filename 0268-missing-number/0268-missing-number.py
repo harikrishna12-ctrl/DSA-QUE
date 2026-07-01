@@ -12,16 +12,23 @@ class Solution(object):
         #     if(count != i+1):
         #         return i
       
-      n = len(nums)
-      hash = {}
-      for i in range(0 , n+1):
-        hash[i] = 0
+    #   n = len(nums)
+    #   hash = {}
+    #   for i in range(0 , n+1):
+    #     hash[i] = 0
 
-      for x in nums:
-        hash[x] = 1
-      for key in hash:
-        if(hash[key] == 0):
-           return key
+    #   for x in nums:
+    #     hash[x] = 1
+    #   for key in hash:
+    #     if(hash[key] == 0):
+    #        return key
      
-        
+    # optimal solution 
+    # summation solution 
+      n = len(nums)
+      sum1 = (n * (n +1))/2
+      sum2 = 0
+      for i in range(0,n):
+        sum2 = sum2 + nums[i]
+      return sum1- sum2
  
