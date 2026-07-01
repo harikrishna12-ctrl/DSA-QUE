@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0342-power-of-four) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
