@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
