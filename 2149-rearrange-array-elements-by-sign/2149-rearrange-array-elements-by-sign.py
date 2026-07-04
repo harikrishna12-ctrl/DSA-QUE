@@ -12,7 +12,6 @@ class Solution(object):
         else:
             zums[z] = nums[i]
             z= z+2
-       for i in range(0,len(zums)):
-        nums[i] = zums[i]
+      
         
-       return nums        
+       return zums       
