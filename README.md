@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0739-daily-temperatures) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
