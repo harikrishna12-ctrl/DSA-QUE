@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0231-power-of-two) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0075-sort-colors) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
