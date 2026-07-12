@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0258-add-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/harikrishna12-ctrl/DSA-QUE/tree/master/0118-pascals-triangle) |
